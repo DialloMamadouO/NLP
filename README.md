@@ -2,7 +2,7 @@ In this project, we will apply natural language processing to understand the sen
 
 #### Sentiment Analysis
 
-We will use the newsapi, to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
+We will use the News API, to pull the latest news articles for Bitcoin and Ethereum and create a DataFrame of sentiment scores for each coin.
 
 Use descriptive statistics to answer the following questions:
 
