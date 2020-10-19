@@ -28,7 +28,6 @@ Next, look at the ngrams and word frequency for each coin.
 
 Finally, generate word clouds for each coin to summarize the news for each coin.
 
-
 #### Named Entity Recognition
 
 In this section, we will build a named entity recognition model for both coins and visualize the tags using SpaCy.
